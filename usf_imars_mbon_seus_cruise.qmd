@@ -1,2 +1,2 @@
 The SouthEast US Marine Biodiversity Observation Network (SEUS MBON) collects data in the Florida Keys via a researach cruise that goes out several times per year. 
-The checklists for the cruise protocols  are published at https://github.com/USF-IMARS/mbon_cruise_scripts.
+The checklists for the cruise protocols are published at https://github.com/USF-IMARS/mbon_cruise_scripts.
